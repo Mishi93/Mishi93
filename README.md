@@ -2,7 +2,7 @@
 - 👀 I’m interested in data analysis
 - 🌱 I’m currently learning R language
 - 💞️ I’m looking to collaborate on github
-- 📫 How to reach me (just email)
+- 📫 How to reach me: Just email
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I meow sometimes
 
