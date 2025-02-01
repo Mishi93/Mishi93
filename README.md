@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mishi93
 - 👀 I’m interested in data analysis
-- 🌱 I’m currently learning R language
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me: Just email
 - 😄 Pronouns: she/her
