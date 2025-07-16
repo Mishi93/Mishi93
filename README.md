@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me: Just email
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I meow sometimes
 
 <!---
 Mishi93/Mishi93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
