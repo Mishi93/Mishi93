@@ -30,7 +30,7 @@ My lane is telecom + AI: RAG chatbots, FastAPI backends, and Streamlit apps that
 
 ## 📫 Reach me
 
-- Email: [mehwishsheikh2015@gmail.com]
+- Email: mehwishsheikh2015@gmail.com
 - GitHub: [@Mishi93](https://github.com/Mishi93)
 - Website: [mehwish.codingkitty.online](https://mehwish.codingkitty.online)
 - Tableau: [public.tableau.com/app/profile/mehwish.younus](https://public.tableau.com/app/profile/mehwish.younus)
