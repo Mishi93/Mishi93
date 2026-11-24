@@ -38,12 +38,3 @@ My lane is telecom + AI: RAG chatbots, FastAPI backends, and Streamlit apps that
 
 ---
 
-# Suggested GitHub bio (paste into Profile → Edit profile → Bio)
-
-```
-Telecom engineer (NED) building AI agents in Python — RAG chatbots, FastAPI, Streamlit. Telecom + AI is my lane. Teaching Python at Coding Kitty.
-```
-
-```
-Telecom engineer (NED) | AI agents, RAG & FastAPI in Python | Teaching Python at Coding Kitty
-```
